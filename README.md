@@ -4,7 +4,8 @@
 
 Para rodar esse projeto na sua máquina, digite:
 
-'''
+
+```
 npm intall react
 
-'''
+```
