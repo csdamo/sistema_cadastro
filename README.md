@@ -2,7 +2,7 @@
 
 > Status do projeto: em desenvolvimento
 
-Para rodar esse projeto na sua máquina, digite:
+Para rodar esse projeto na sua máquina, rode o comando:
 
 
 ```
